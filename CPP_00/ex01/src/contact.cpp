@@ -6,11 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/06 15:24:22 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/11/07 16:22:46 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/11/14 16:11:50 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/contact.hpp"
+#include "../includes/Contact.hpp"
 
 std::string     Contact::get_first_name(void) {
     return (this->_first_name);

@@ -6,11 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/06 15:24:30 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/11/07 17:31:23 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/11/14 16:12:00 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/header.hpp"
+#include "../includes/Header.hpp"
 
 std::string get_check_input(std::string str)
 {

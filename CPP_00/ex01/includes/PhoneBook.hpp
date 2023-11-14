@@ -6,15 +6,15 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/06 15:24:14 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/11/07 17:19:30 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/11/14 16:11:30 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef PHONEBOOK_HPP
 # define PHONEBOOK_HPP
 
-# include "./contact.hpp"
-# include "./header.hpp"
+# include "./Contact.hpp"
+# include "./Header.hpp"
 
 class   PhoneBook {
             private:

@@ -6,14 +6,14 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/06 15:22:05 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/11/06 15:22:06 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/11/14 16:11:17 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef CONTACT_HPP
 # define CONTACT_HPP
 
-# include "./header.hpp"
+# include "./Header.hpp"
 
 class Contact {
 
